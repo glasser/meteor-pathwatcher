@@ -1,6 +1,6 @@
 Package.describe({
   name: "meteor-pathwatcher",
-  version: "1.0.0"
+  version: "1.0.1"
 });
 
 Npm.depends({"pathwatcher": "1.3.2"});
